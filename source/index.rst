@@ -23,22 +23,37 @@ issues page`_\ 上提问。
 plantcv” 和”Package
 plantcv.learn.”目录下，对安装、升级和其他常见问题，见以下：
 
-`安装 PlantCV`_ `更新 PlantCV`_ `常见问题`_ `PlantCV 图像分析通用方法`_
-`Jupyter Notebooks 使用 PlantCV`_ `输出测量结果和数据库结构的总结`_
+ - `安装 PlantCV`_
+ - `更新 PlantCV`_
+ - `常见问题`_ 
+ - `PlantCV 图像分析通用方法`_
+ - `Jupyter Notebooks 使用 PlantCV`_ 
+ - `输出测量结果和数据库结构的总结`_
+
 对于PlantCV的针对性教程如下：
 
-`可见光/RGB 图像处理`_ `近红外图像处理`_ `激发态荧光成像图像处理PSII`_
-`可见光/近红外双通道`_ `多组植物图像处理`_ `机器学习教程`_
-`并行图像处理`_ `数据导出进行下一步处理`_
+ - `可见光/RGB 图像处理`_
+ - `近红外图像处理`_
+ - `激发态荧光成像图像处理PSII`_
+ - `可见光/近红外双通道`_
+ - `多组植物图像处理`_
+ - `机器学习教程`_
+ - `并行图像处理`_
+ - `数据导出进行下一步处理`_
+
 我们增加了以下交互式的文档（打开链接需要一定时间加载，请耐心等待），可以进行流程测试甚至上传自己的图像来测试。
 
-`点击查看交互式教程文档!`_ 如果您有兴趣为PlancCV贡献一份力量，请点击：
+`点击查看交互式教程文档!`_
 
-`贡献指南`_ `文档指南`_ `操作代码`_ ## 版本
+如果您有兴趣为PlancCV贡献一份力量，请点击：
 
-在 master 代码分支下latest
-版本默认是最新的PlantCV说明文档。Documentation for all releases from
-v1.1版本以后的发布也可以在Read the Docs菜单查看。
+ - `贡献指南`_
+ - `文档指南`_ 
+ - `操作代码`_ 
+ 
+版本
+----
+ 在 master 代码分支下latest版本默认是最新的PlantCV说明文档。v1.1版本以后的发布也可以在Read the Docs菜单查看。
 
 .. _PlantCV: http://plantcv.danforthcenter.org/
 .. _GitHub issues page: https://github.com/danforthcenter/plantcv/issues
