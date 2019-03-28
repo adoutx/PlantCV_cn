@@ -78,7 +78,7 @@ plantcv.learn.”目录下，对安装、升级和其他常见问题，见以下
 .. _操作代码: https://plantcv.readthedocs.io/en/latest/CODE_OF_CONDUCT/
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :glob:
 
    home/index
@@ -92,8 +92,4 @@ plantcv.learn.”目录下，对安装、升级和其他常见问题，见以下
 
 Indices and tables
 ==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
